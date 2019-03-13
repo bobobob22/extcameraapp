@@ -1,0 +1,21 @@
+.photo-img{
+    max-width: 75%;
+}
+
+.x-container{
+    overflow: scroll;
+}
+
+.camera-view{
+    padding: 10px;
+}
+
+.prediction-list{
+    padding: 0;
+}
+
+.prediction-list li{
+    list-style-type: none;
+    border-bottom: 1px solid #ccc;
+    padding: 5px 0;
+}
